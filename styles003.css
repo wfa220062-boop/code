@@ -1,0 +1,23 @@
+:root {
+    font-family: 'algerian';
+}
+
+
+p:nth-child(odd){
+    margin: 0;
+    background-color: aquamarine;
+}
+
+p:nth-child(even){
+    margin: 0;
+    background-color: rgb(171, 85, 207);
+}
+
+p:nth-child(1){
+    text-align: center;
+}
+
+a:hover, button:hover {
+    color: rgb(205, 35, 35);
+    font-size: 35px;
+}

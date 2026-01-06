@@ -1,0 +1,17 @@
+
+input[type="text"], input[type="password"] {
+    background-color: aqua;
+    margin: 10px;
+    border: rgb(145, 172, 24) 5px solid;
+    border-radius: 15px;
+}
+
+
+div h1 {
+    text-align: center;
+    border: blue 5px double;
+}
+
+div > h1 {
+    background-color: yellow;
+}

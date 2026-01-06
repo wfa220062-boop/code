@@ -1,0 +1,44 @@
+* {
+     margin:  0;
+     padding: 0;
+     
+}
+
+h1 {
+  color: rgb(186, 182, 190);
+  background-color: rgb(183, 41, 89);
+}
+
+
+p {
+  font-size: 30px;
+  color: rgb(33, 124, 166);
+  background-color: pink;
+}
+h1 {
+  color: rgb(186, 182, 190);
+  background-color: rgb(183, 41, 89);
+}
+
+
+p {
+  font-size: 30px;
+  color: rgb(33, 124, 166);
+  background-color: pink;
+}
+
+.textcenter {
+    text-align: center;
+    text-decoration: underline;
+}
+
+#Notes {
+  border: 11px solid rgb(146, 42, 139);
+  background-color: #f3d9e5;
+  padding: 12px;
+}
+
+/* تكبير عناوين My Learning Journey و Last title */
+h3 {
+  font-size: 36px;
+}
